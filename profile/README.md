@@ -17,6 +17,7 @@
 | [**api**](https://github.com/WM-Project/api) | API Laravel — authentification, gestion des biens & utilisateurs | [![Quality & Tests](https://github.com/WM-Project/api/actions/workflows/ci.yml/badge.svg)](https://github.com/WM-Project/api/actions/workflows/ci.yml) |
 | [**app**](https://github.com/WM-Project/app) | Frontend Vue 3 — interface utilisateur | [![App — Lint, Types & Build](https://github.com/WM-Project/app/actions/workflows/ci.yml/badge.svg)](https://github.com/WM-Project/app/actions/workflows/ci.yml) |
 | [**bruno**](https://github.com/WM-Project/bruno) | Collection Bruno — tests et documentation API | — |
+| [**infra**](https://github.com/WM-Project/infra) | Infrastructure Docker — Traefik, PostgreSQL, Grafana, Prometheus | — |
 
 ---
 
@@ -30,5 +31,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
 
 </div>
