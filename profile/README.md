@@ -14,7 +14,7 @@
 
 | Projet | Description | CI |
 |--------|-------------|-----|
-| [**landing**](https://github.com/WM-Project/landing) | Site public & blog — Astro, Dark Fintech theme, SEO | — |
+| [**landing**](https://github.com/WM-Project/landing) | Site public & blog — Astro, Dark Fintech theme, SEO | [![CI](https://github.com/WM-Project/landing/actions/workflows/ci.yml/badge.svg)](https://github.com/WM-Project/landing/actions/workflows/ci.yml) |
 | [**app**](https://github.com/WM-Project/app) | Dashboard Vue 3 — interface utilisateur authentifiée | [![App — Lint, Types & Build](https://github.com/WM-Project/app/actions/workflows/ci.yml/badge.svg)](https://github.com/WM-Project/app/actions/workflows/ci.yml) |
 | [**api**](https://github.com/WM-Project/api) | API Laravel — authentification, gestion des actifs & utilisateurs | [![Quality & Tests](https://github.com/WM-Project/api/actions/workflows/ci.yml/badge.svg)](https://github.com/WM-Project/api/actions/workflows/ci.yml) |
 | [**infra**](https://github.com/WM-Project/infra) | Infrastructure Docker — Traefik, PostgreSQL, Grafana, Prometheus | — |
