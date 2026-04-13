@@ -14,7 +14,6 @@ Ces repositories sont partagés entre les projets de l'organisation.
 
 | Repository | Description |
 |------------|-------------|
-| [**infra**](https://github.com/MaJeRoLe/infra) | Infrastructure Docker — Traefik, PostgreSQL, Grafana, Prometheus |
 | [**bruno**](https://github.com/MaJeRoLe/bruno) | Collections Bruno — tests et documentation des APIs |
 
 ---
@@ -25,8 +24,9 @@ Ces repositories sont partagés entre les projets de l'organisation.
 
 Plateforme de gestion de patrimoine — centralisez, suivez et optimisez votre patrimoine.
 
-| Repository | Description | CI |
-|------------|-------------|----|
+| Repository | Description | CI/CD |
+|------------|-------------|-------|
+| [**infra**](https://github.com/MaJeRoLe/infra) | Infrastructure Docker — Traefik, PostgreSQL, Redis, Portainer | [![Deploy](https://github.com/MaJeRoLe/infra/actions/workflows/deploy.yml/badge.svg)](https://github.com/MaJeRoLe/infra/actions/workflows/deploy.yml) |
 | [**navimo-landing**](https://github.com/MaJeRoLe/navimo-landing) | Site public & blog — Astro, Dark Fintech theme, SEO | [![CI](https://github.com/MaJeRoLe/navimo-landing/actions/workflows/ci.yml/badge.svg)](https://github.com/MaJeRoLe/navimo-landing/actions/workflows/ci.yml) |
 | [**navimo-app**](https://github.com/MaJeRoLe/navimo-app) | Dashboard Vue 3 — interface utilisateur authentifiée | [![App — Lint, Types & Build](https://github.com/MaJeRoLe/navimo-app/actions/workflows/ci.yml/badge.svg)](https://github.com/MaJeRoLe/navimo-app/actions/workflows/ci.yml) |
 | [**navimo-api**](https://github.com/MaJeRoLe/navimo-api) | API Laravel — authentification, gestion des actifs & utilisateurs | [![Quality & Tests](https://github.com/MaJeRoLe/navimo-api/actions/workflows/ci.yml/badge.svg)](https://github.com/MaJeRoLe/navimo-api/actions/workflows/ci.yml) |
